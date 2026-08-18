@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm an IT student on a journey to becoming a Fullstack Sof
       <br />
       <!-- Bootstrap, etc. -->
       <a href="#">
-        <img src="assets/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="icons/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br /><br />
     </td>
@@ -34,11 +34,12 @@ Welcome to my GitHub! I'm an IT student on a journey to becoming a Fullstack Sof
       <br />
       <!-- HTML, CSS, etc. -->
       <a href="#">
-        <img src="html.svg" width="48" height="48" alt="HTML5" />
+        <img src="icons/html.svg" width="48" height="48" alt="HTML5" />
       </a>
+      <br/>
       &nbsp;&nbsp;
       <a href="#">
-        <img src="css.svg" width="48" height="48" alt="CSS3" />
+        <img src="icons/css.svg" width="48" height="48" alt="CSS3" />
       </a>
       <br /><br />
     </td>
@@ -56,15 +57,15 @@ Welcome to my GitHub! I'm an IT student on a journey to becoming a Fullstack Sof
       <br />
       <!-- VS Code, Git, GitHub, etc. -->
       <a href="#">
-        <img src="assets/vscode.svg" width="48" height="48" alt="VS Code" />
+        <img src="icons/vscode.svg" width="48" height="48" alt="VS Code" />
       </a>
       &nbsp;&nbsp;
       <a href="#">
-        <img src="assets/git.svg" width="48" height="48" alt="Git" />
+        <img src="icons/git.svg" width="48" height="48" alt="Git" />
       </a>
       &nbsp;&nbsp;
       <a href="#">
-        <img src="assets/github.svg" width="48" height="48" alt="GitHub" />
+        <img src="icons/github.svg" width="48" height="48" alt="GitHub" />
       </a>
       <br /><br />
     </td>
