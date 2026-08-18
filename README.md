@@ -44,6 +44,7 @@ Welcome to my GitHub! I'm an IT student on a journey to becoming a Fullstack Sof
         <a href="#"><img src="icons/git.svg" width="48" height="48" alt="Git" /></a>
         &nbsp;&nbsp;
         <a href="#"><img src="icons/github.svg" width="48" height="48" alt="GitHub" /></a>
+        <a href="#"><img src="icons/unity.svg" width="48" height="48" alt="GitHub" /></a>
         <br /><br />
       </td>
     </tr>
