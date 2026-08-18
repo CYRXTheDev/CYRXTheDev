@@ -14,12 +14,10 @@ Welcome to my GitHub! I'm an IT student on a journey to becoming a Fullstack Sof
 
 ## 🛠️ Tech Stack
 
-### Languages
-
 <table width="100%">
   <tr>
-    <td width="50%" align="center"><b>Frameworks</b></td>
-    <td width="50%" align="center"><b>Languages</b></td>
+    <td width="100%" align="center"><b>Frameworks</b></td>
+    <td width="100%" align="center"><b>Languages</b></td>
   </tr>
   <tr>
     <td align="center" valign="top">
