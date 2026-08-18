@@ -1,6 +1,6 @@
 # 👋 Hi, I'm CYRX THE DEV
 
-> Software Developer • BSIT Student • Cybersecurity Enthusiast
+> BSIT Student • Software Developer • Cybersecurity Enthusiast
 
 I'm a BSIT student passionate about building software,
 learning cybersecurity, and turning ideas into real projects.
@@ -13,8 +13,18 @@ learning cybersecurity, and turning ideas into real projects.
 
 <div align="center">
 
-# Hello
+# BSIT Student | Aspiring Fullstack & Software Developer | Cybersecurity Enthusiast | Indie Game Dev Explorer
 
-Software Developer
+Aspiring Software Dev
 
 </div>
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="..." />
+  <img src="..." />
+  <img src="..." />
+</p>
