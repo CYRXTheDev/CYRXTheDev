@@ -11,13 +11,9 @@ learning cybersecurity, and turning ideas into real projects.
 
 # Overview
 
-<div align="center">
-
 # BSIT Student | Aspiring Fullstack & Software Developer | Cybersecurity Enthusiast | Indie Game Dev Explorer
 
 Aspiring Software Dev
-
-</div>
 
 ## 🛠️ Tech Stack
 
