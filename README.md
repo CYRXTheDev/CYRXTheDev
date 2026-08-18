@@ -29,7 +29,7 @@ Welcome to my GitHub! I'm an IT student on a journey to becoming a Fullstack Sof
         <a href="#"><img src="icons/html.svg" width="48" height="48" alt="HTML5" /></a>
         &nbsp;&nbsp;
         <a href="#"><img src="icons/css.svg" width="48" height="48" alt="CSS3" /></a>
-        <a href="#"><img srcc="icons/python.svg" width="48" height="48" alt="python3"/></a>
+        <a href="#"><img src="icons/python.svg" width="48" height="48" alt="CSS3" /></a>
         <br /><br />
       </td>
       <td align="center" valign="middle">
