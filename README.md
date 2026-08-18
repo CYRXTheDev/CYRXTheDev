@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm an IT student on a journey to becoming a Fullstack Sof
 ### Languages
 
 <p>
-  <img src="assets/Icons/html.svg" width="48" alt="HTML5"/>
-  <img src="assets/Icons/css.svg" width="48" alt="CSS3" />
+  <img src="assets/icons/html.svg" width="48" alt="HTML5"/>
+  <img src="assets/icons/css.svg" width="48" alt="CSS3" />
   <img src="..." />
 </p>
